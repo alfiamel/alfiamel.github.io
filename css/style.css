@@ -59,7 +59,7 @@ p {
 }
 /*-- header styling starts here --*/
 .agileits_main{
-	background:url(../images/khusus/background.jpg) no-repeat center;
+	background:url(../images/background.jpg) no-repeat center;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -441,22 +441,22 @@ span.menu {
 	background-size: cover !important;
 }
 .img1 {
-	background: url(../images/khusus/img1.jpg) center;
+	background: url(../images/img1.jpg) center;
 }
  .img2 {
-	background: url(../images/khusus/img2.jpg) center;
+	background: url(../images/img2.jpg) center;
 }
 .img3 {
-	background: url(../images/khusus/img3.jpg) center;
+	background: url(../images/img3.jpg) center;
 }
 .img4 {
-	background: url(../images/khusus/img4.jpg) center; 
+	background: url(../images/img4.jpg) center; 
 }
 .img5 {
-	background: url(../images/khusus/img5.jpg) center;
+	background: url(../images/img5.jpg) center;
 }
 .img6 {
-	background: url(../images/khusus/img6.jpg) center;
+	background: url(../images/img6.jpg) center;
 }
 .img_text_w3ls {
     padding: 9.15em 0;
@@ -527,7 +527,7 @@ h3.title {
 	color:#000;
 }
 .about_agileits {
-	background: url(../images/khusus/tentang-kita.jpg) center;
+	background: url(../images/tentang-kita.jpg) center;
 	background-size: cover;
 	min-height: 300px;
 }
@@ -798,10 +798,10 @@ a.agilebtn {
 /*-- section --*/ 
 .w3layouts-section {
 	text-align: center;
-	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/6.jpg) no-repeat  center fixed;
-	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/6.jpg) no-repeat  center fixed;
-	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/6.jpg) no-repeat  center fixed;
-	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/6.jpg) no-repeat  center fixed;
+	background:-webkit-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/background2.jpg) no-repeat  center fixed;
+	background:-moz-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/background2.jpg) no-repeat  center fixed;
+	background:-ms-linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/background2.jpg) no-repeat  center fixed;
+	background:linear-gradient(rgba(76, 76, 76, 0.6), rgb(18, 18, 18)), url(../images/background2.jpg) no-repeat  center fixed;
 	background-size: cover;
 }
 .w3layouts-section p {
